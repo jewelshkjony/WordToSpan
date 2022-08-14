@@ -9,10 +9,10 @@ You can create clickable url, mail, mention, tag, or your custom regex from text
 <table>
   <tr>
     <th><img src="https://github.com/jewelshkjony/WordToSpan/raw/main/images/create-link.png"/></th>
-    <th><img src="https://github.com/jewelshkjony/WordToSpan/raw/main/images/create-link-with.png"/></th>
+    <th><img src="https://github.com/jewelshkjony/WordToSpan/raw/main/images/clicked.png"/></th>
   </tr>
   <tr>
-    <th><img src="https://github.com/jewelshkjony/WordToSpan/raw/main/images/clicked.png"/></th>
+    <th><img src="https://github.com/jewelshkjony/WordToSpan/raw/main/images/create-link-with.png"/></th>
     <th><img src="https://github.com/jewelshkjony/WordToSpan/raw/main/images/create-link-demo.gif"/></th>
   </tr>
 </table>
