@@ -30,7 +30,7 @@ Highlight your text using keywords.
 </table>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/WordToSpan/raw/main/imagaes/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.wordtospan.aix</a> (16 KB) \
+<img src="https://github.com/jewelshkjony/WordToSpan/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.wordtospan.aix</a> (16 KB) \
 <b>Version:</b> 3.1\
 <b>Price:</b> $3 USD\
 <b>Last amendment:</b> 14 August 2022\
